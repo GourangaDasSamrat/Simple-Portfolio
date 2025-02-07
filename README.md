@@ -29,8 +29,7 @@ https://github.com/user-attachments/assets/fb0093a4-9cc4-498e-b736-27c2017bc09c
 ## ⚡ Quick Start
 1. **Clone the repository**
    ```bash
-
-
+   git@github.com:GourangaDasSamrat/Simple-Portfolio.git
 2. Open the index.html file in your browser
 Enjoy view this site.!
 
