@@ -3,10 +3,14 @@
 This is a simple portfolio website showcasing my skills and projects.  It's built using HTML and CSS, with a clean and modern design.  The portfolio is designed to be responsive, adapting to different screen sizes.
 
 🌟 **Live Demo**
-Check out the live version of the website: [Responsive Simole Portfolio Website]()
+Check out the live version of the website: [Responsive Simole Portfolio Website](https://simpleportfoliobygouranga.tiiny.site)
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
+
+
+
+https://github.com/user-attachments/assets/fb0093a4-9cc4-498e-b736-27c2017bc09c
 
 
 
